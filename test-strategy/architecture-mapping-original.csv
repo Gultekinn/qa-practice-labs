@@ -1,0 +1,7 @@
+User Action,Presentation Layer (what you see),Application Layer (API request observed),Expected Status Code,Data Layer (what is stored or read)
+Load the catalogue,Catalogue grid,GET /api/courses,200.0,reads rows from the courses table
+View a single course,Detail page,GET /api/courses/{id},200.0,reads one course row by id
+Filter by level,Filtered grid,GET /api/courses?level=beginner,200.0,reads filtered rows from the courses table
+Search by title,Search results,GET /api/courses?search=python,200.0,reads matching rows from the courses table
+Add a course to the cart,Cart count change,POST /api/cart/items,201.0,write a cart line after checking if the course exists in the courses table
+Submit a payment with a special character,Error message,POST /api/checkout,500.0,Data layer was never reached because the request failed first
