@@ -1,6 +1,13 @@
-# QA Practice Labs
+# QA Practice Labs | Manual Testing and Test Strategy
 
-Selected small QA exercises by Gultekin Azizova from the Microsoft Junior QA/Software Tester certificate on Coursera.
+Manual software testing portfolio with test strategy, STLC planning, test coverage and UI/API/database mapping exercises from the Microsoft Junior QA/Software Tester certificate on Coursera.
+
+## Portfolio highlights
+
+- **Test strategy:** static/dynamic techniques, simplified RACI responsibilities and a reported seeded defect.
+- **Coverage planning:** 5 categories with environments and success criteria.
+- **Architecture:** 6 UI actions mapped to API routes and expected database activity.
+- **Review first:** [exercise index](test-strategy/README.md), [coverage plan](test-strategy/registration-coverage.md), [mapping](test-strategy/architecture-mapping.md).
 
 This repository complements my larger [GreenLeaf QA capstone](https://github.com/Gultekinn/greenleaf-qa-capstone) and [MindBridge automation project](https://github.com/Gultekinn/mindbridge-qa-automation). Each exercise has its own scope and dataset.
 
