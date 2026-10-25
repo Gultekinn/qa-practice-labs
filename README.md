@@ -15,6 +15,7 @@ This repository complements my larger [GreenLeaf QA capstone](https://github.com
 
 | Topic | Included work | Skills demonstrated |
 | --- | --- | --- |
+| [QA/QC fundamentals](fundamentals/README.md) | Project Falcon quality playbook and 3 testing principles | QA/QC responsibilities, early testing and risk-based prioritization |
 | [Automation strategy](automation-strategy/README.md) | 3 proposed automation candidates and 1 manual scenario | Risk-based prioritization, automation suitability and estimated value |
 | [Test strategy and coverage](test-strategy/README.md) | Shareable-content strategy, registration coverage plan and UI/API/database mapping | STLC planning, responsibility mapping, test scope, acceptance criteria and architecture analysis |
 
@@ -35,5 +36,7 @@ The published exercises contain planning/documentation work. It does not claim n
 - **22 October 2026:** Published three test-strategy/coverage/mapping exercises. Their original coursework dates remain in the source files.
 
 - **23 October 2026:** Added the MindBridge automation strategy, preserving the original submission and distinguishing estimates from measured outcomes.
+
+- **25 October 2026:** Added the Project Falcon quality playbook with QA/QC responsibilities and testing principles.
 
 Additional topic groups will be added after separate review.
