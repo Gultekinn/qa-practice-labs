@@ -15,6 +15,7 @@ This repository complements my larger [GreenLeaf QA capstone](https://github.com
 
 | Topic | Included work | Skills demonstrated |
 | --- | --- | --- |
+| [Enrollment date RCA](root-cause-analysis/enrollment/README.md) | Reviewed invalid-date response and verification plan | Calendar validation, evidence review and hypothesis boundaries |
 | [Registration root cause analysis](root-cause-analysis/registration/README.md) | DevTools evidence and reviewed 5-Whys chain for a missing clientId response | Network investigation, evidence vs hypothesis and verification planning |
 | [QA/QC fundamentals](fundamentals/README.md) | Project Falcon quality playbook and 3 testing principles | QA/QC responsibilities, early testing and risk-based prioritization |
 | [Automation strategy](automation-strategy/README.md) | 3 proposed automation candidates and 1 manual scenario | Risk-based prioritization, automation suitability and estimated value |
@@ -41,5 +42,7 @@ The published exercises contain planning/documentation work. It does not claim n
 - **25 October 2026:** Added the Project Falcon quality playbook with QA/QC responsibilities and testing principles.
 
 - **26 October 2026:** Added the registration 5-Whys investigation, separating recorded evidence from an unconfirmed underlying cause.
+
+- **27 October 2026:** Added the enrollment date-validation RCA with corrected interpretation of the HTTP 400 response.
 
 Additional topic groups will be added after separate review.
