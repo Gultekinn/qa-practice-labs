@@ -15,6 +15,7 @@ This repository complements my larger [GreenLeaf QA capstone](https://github.com
 
 | Topic | Included work | Skills demonstrated |
 | --- | --- | --- |
+| [SQL backend data validation](sql-data-validation/README.md) | Customer order-history investigation and reported NULL status | SQLite, SELECT, WHERE, ORDER BY and evidence review |
 | [Functional and responsive testing](functional-responsive-testing/README.md) | Course search, viewport observations and a qualified timing observation | Functional Testing, responsive checks, DevTools and STLC mapping |
 | [Enrollment date RCA](root-cause-analysis/enrollment/README.md) | Reviewed invalid-date response and verification plan | Calendar validation, evidence review and hypothesis boundaries |
 | [Registration root cause analysis](root-cause-analysis/registration/README.md) | DevTools evidence and reviewed 5-Whys chain for a missing clientId response | Network investigation, evidence vs hypothesis and verification planning |
@@ -47,5 +48,7 @@ The published exercises contain planning/documentation work. It does not claim n
 - **27 October 2026:** Added the enrollment date-validation RCA with corrected interpretation of the HTTP 400 response.
 
 - **28 October 2026:** Added the functional/responsive lab report, qualifying the timing metric and viewport coverage.
+
+- **29 October 2026:** Added the backend SQL lab report and a clearly labeled query transcription; no new execution or CSV output claimed.
 
 Additional topic groups will be added after separate review.
