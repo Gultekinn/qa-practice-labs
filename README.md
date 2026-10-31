@@ -15,6 +15,7 @@ This repository complements my larger [GreenLeaf QA capstone](https://github.com
 
 | Topic | Included work | Skills demonstrated |
 | --- | --- | --- |
+| [Requirements traceability](requirements-traceability/README.md) | 3 profile requirements mapped to 5 test cases | RTM, positive/negative scenarios and coverage review |
 | [Exploratory testing and SBTM](exploratory-testing/README.md) | Checkout charter, workbook and reviewed observations | Session-based testing, heuristics and defect-report refinement |
 | [SQL backend data validation](sql-data-validation/README.md) | Customer order-history investigation and reported NULL status | SQLite, SELECT, WHERE, ORDER BY and evidence review |
 | [Functional and responsive testing](functional-responsive-testing/README.md) | Course search, viewport observations and a qualified timing observation | Functional Testing, responsive checks, DevTools and STLC mapping |
@@ -53,5 +54,7 @@ The published exercises contain planning/documentation work. It does not claim n
 - **29 October 2026:** Added the backend SQL lab report and a clearly labeled query transcription; no new execution or CSV output claimed.
 
 - **30 October 2026:** Added the SBTM charter and related workbook, clarifying expiry-format assumptions and avoiding duplicate defect counts.
+
+- **31 October 2026:** Added the profile RTM, preserving source statuses and identifying missing acceptance/execution detail.
 
 Additional topic groups will be added after separate review.
