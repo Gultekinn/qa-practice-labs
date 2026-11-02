@@ -15,6 +15,7 @@ This repository complements my larger [GreenLeaf QA capstone](https://github.com
 
 | Topic | Included work | Skills demonstrated |
 | --- | --- | --- |
+| [QA metrics dashboard](test-metrics/README.md) | Pass-rate arithmetic and reviewed defect metric definition | Formula review, denominators and reporting limitations |
 | [Compatibility planning](compatibility-planning/README.md) | Four selected configurations and reviewed exclusions across a ten-item inventory | Audience-based prioritization, device coverage and planning trade-offs |
 | [Requirements traceability](requirements-traceability/README.md) | 3 profile requirements mapped to 5 test cases | RTM, positive/negative scenarios and coverage review |
 | [Exploratory testing and SBTM](exploratory-testing/README.md) | Checkout charter, workbook and reviewed observations | Session-based testing, heuristics and defect-report refinement |
@@ -59,5 +60,7 @@ The published exercises contain planning/documentation work. It does not claim n
 - **31 October 2026:** Added the profile RTM, preserving source statuses and identifying missing acceptance/execution detail.
 
 - **1 November 2026:** Added compatibility planning with corrected device classifications, full exclusion accounting and qualified audience coverage.
+
+- **2 November 2026:** Added the QA metrics dashboard review with verified arithmetic and an explicit defects-per-executed-test denominator.
 
 Additional topic groups will be added after separate review.
