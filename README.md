@@ -15,6 +15,7 @@ This repository complements my larger [GreenLeaf QA capstone](https://github.com
 
 | Topic | Included work | Skills demonstrated |
 | --- | --- | --- |
+| [Release assessment](test-metrics/release-assessment/README.md) | Review of a 100-record checkout summary and GO recommendation | Explicit metric denominators, blocker review and risk assessment |
 | [QA metrics dashboard](test-metrics/README.md) | Pass-rate arithmetic and reviewed defect metric definition | Formula review, denominators and reporting limitations |
 | [Compatibility planning](compatibility-planning/README.md) | Four selected configurations and reviewed exclusions across a ten-item inventory | Audience-based prioritization, device coverage and planning trade-offs |
 | [Requirements traceability](requirements-traceability/README.md) | 3 profile requirements mapped to 5 test cases | RTM, positive/negative scenarios and coverage review |
@@ -62,5 +63,7 @@ The published exercises contain planning/documentation work. It does not claim n
 - **1 November 2026:** Added compatibility planning with corrected device classifications, full exclusion accounting and qualified audience coverage.
 
 - **2 November 2026:** Added the QA metrics dashboard review with verified arithmetic and an explicit defects-per-executed-test denominator.
+
+- **3 November 2026:** Added the checkout release-assessment review, separating original GO from unresolved evidence and risk-acceptance gaps.
 
 Additional topic groups will be added after separate review.
