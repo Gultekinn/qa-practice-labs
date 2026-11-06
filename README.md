@@ -15,6 +15,7 @@ This repository complements my larger [GreenLeaf QA capstone](https://github.com
 
 | Topic | Included work | Skills demonstrated |
 | --- | --- | --- |
+| [AI-assisted defect analysis](ai-defect-analysis/README.md) | Reported hotspot ranking and qualified AI log-diagnosis review | Prompt design, arithmetic verification and evidence boundaries |
 | [Legacy regression review](regression-review/README.md) | Review dispositions for all 12 source cases | Duplicate analysis, coverage preservation and conditional retirement |
 | [Release assessment](test-metrics/release-assessment/README.md) | Review of a 100-record checkout summary and GO recommendation | Explicit metric denominators, blocker review and risk assessment |
 | [QA metrics dashboard](test-metrics/README.md) | Pass-rate arithmetic and reviewed defect metric definition | Formula review, denominators and reporting limitations |
@@ -68,5 +69,7 @@ The published exercises contain planning/documentation work. It does not claim n
 - **3 November 2026:** Added the checkout release-assessment review, separating original GO from unresolved evidence and risk-acceptance gaps.
 
 - **4 November 2026:** Added a 12-case regression review with proposed merges, refinements and conditional legacy-feature decisions.
+
+- **6 November 2026:** Added the reviewed AI-assisted hotspot report, separating displayed counts and arithmetic from unverified source data and diagnostic hypotheses.
 
 Additional topic groups will be added after separate review.
