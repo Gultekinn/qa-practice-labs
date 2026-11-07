@@ -15,6 +15,7 @@ This repository complements my larger [GreenLeaf QA capstone](https://github.com
 
 | Topic | Included work | Skills demonstrated |
 | --- | --- | --- |
+| [Registration automation report](registration-automation-report/README.md) | Guided Playwright lab report and setup troubleshooting | TypeScript UI-test concepts, assertions and evidence interpretation |
 | [AI-assisted defect analysis](ai-defect-analysis/README.md) | Reported hotspot ranking and qualified AI log-diagnosis review | Prompt design, arithmetic verification and evidence boundaries |
 | [Legacy regression review](regression-review/README.md) | Review dispositions for all 12 source cases | Duplicate analysis, coverage preservation and conditional retirement |
 | [Release assessment](test-metrics/release-assessment/README.md) | Review of a 100-record checkout summary and GO recommendation | Explicit metric denominators, blocker review and risk assessment |
@@ -72,4 +73,6 @@ The published exercises contain planning/documentation work. It does not claim n
 
 - **6 November 2026:** Added the reviewed AI-assisted hotspot report, separating displayed counts and arithmetic from unverified source data and diagnostic hypotheses.
 
-Additional topic groups will be added after separate review.
+- **7 November 2026:** Added the final registration automation report as documentation, with reproducibility and runner-evidence limitations explicitly stated.
+
+The supplied distinct coursework topics have now been organized. Overlapping capstone summaries and the certificate are not duplicated as new projects. Future updates can add original scripts, raw evidence or newly completed independent work.
